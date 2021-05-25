@@ -1,0 +1,237 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+
+width: 90%;
+
+overflow: hidden;
+
+margin: 20px 0;
+}
+.logo{
+
+width: 20%;
+
+width: 20;
+
+float: left;
+
+margin: 10px 90px;
+}
+.logo img{
+
+}
+nav{
+
+float: right;
+
+width: 60%;
+}
+nav ul{
+
+float: right;
+
+width: 100%;
+
+list-style: none;
+
+font-size: 20px;
+
+margin: 10px 0;
+
+text-align: center;
+
+text-transform: capitalize;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 5%;
+}
+nav ul li img{
+    
+float: right;
+    
+width: auto;
+    
+    
+margin-left: 100px;
+}
+.section{
+
+width: 90%;
+
+
+margin: 200px 10px;
+
+overflow: hidden;
+}
+.section_left{
+
+padding: 60px;
+
+float: left;
+
+text-transform: capitalize;
+
+}
+.section_left h1{
+
+font-size: 30px;
+}
+.section_left p{
+
+color: #808080;
+
+margin: 15px 0;
+}
+.section_left img{
+
+margin: 10px 0;
+
+width: 50px;
+}
+.section_right{
+
+float: right;
+}
+.section_right img{
+    
+margin-right: 100px;
+}
+.manu{
+
+/* width: 90%; */
+
+/* margin-left: 5%; */
+}
+.manu_top{
+
+text-align: center;
+}
+.manu_top h1{
+
+padding: 10px;
+
+font-size: 30px;
+
+font-weight: 800;
+
+}
+.manu_top p{
+
+font-size: 15px;
+
+text-transform: capitalize;
+
+padding: 15px;
+
+font-style: italic;
+
+width: 60%;
+
+margin: auto;
+}
+.manu_bottom{
+    
+width: 90%;
+    
+overflow: hidden;
+    
+padding: 30px;
+}
+.manu_bottom_one{
+
+float: left;
+
+}
+.manu_bottom_two{
+
+
+float: left;
+
+}
+.manu_bottom_three{
+
+
+float: left;
+
+}
+.manu_bottom_four{
+
+
+float: right;
+}
+.feature{
+
+width: auto;
+
+margin: auto;
+
+padding: 100px;
+
+
+text-align: center;
+}
+.feature_top{
+
+}
+
+.feature_top h1{font-size: 40px;padding: 10px;}
+.feature_top p{
+
+font-size: 16px;
+
+font-style: italic;
+}
+.feature_bottom{
+
+padding: 50px;
+}
+.feature_bottom_one{
+
+}
+.feature_bottom_one img{
+
+}
+.feature_bottom_two{
+    
+}
+.feature_bottom_two img{
+
+}
+
+footer{
+    
+width: 100%;
+    
+background: #;
+
+    
+height: 300px;
+    
+background: #292640;
+    
+text-align: center;
+}
+footer p{
+
+font-size: 50px;
+
+color: white;
+
+
+padding: 50px;
+
+text-transform: math-auto;
+
+margin: auto;
+
+font-style: revert;
+}
+footer img{
+
+}
